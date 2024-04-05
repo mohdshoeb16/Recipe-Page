@@ -1,0 +1,89 @@
+img {
+  width: 100%;
+  border-radius: 20px;
+}
+
+.recipe h1 {
+  font-size: 3rem;
+  font-weight: 700;
+  font-family: "Young Serif" sans-serif;
+  margin: 1rem;
+}
+
+.recipe p {
+  color: hsl(30, 10%, 34%);
+  font-size: 1rem;
+  font-weight: 500;
+  margin: 0.5rem;
+  font-family: "Outfit";
+  margin-left: 1rem;
+}
+
+.preparation-time {
+  height: 30vh;
+  background-color: hsl(330, 100%, 98%);
+  border-radius: 20px;
+}
+
+h2 {
+  font-size: 2rem;
+  color: hsl(332, 51%, 32%);
+  font-family: "Young Serif" sans-serif;
+  padding-top: 1.5rem;
+  padding-left: 2rem;
+  margin-bottom: 0.8rem;
+  font-weight: 500;
+}
+
+li {
+  font-size: 1rem;
+  font-family: "Outfit";
+  margin-bottom: 0.6rem;
+  margin-left: 1.8rem;
+}
+
+h3 {
+  color: hsl(14, 45%, 36%);
+  font-size: 1.4rem;
+  font-weight: 550;
+  font-family: "YoungSerif" sans-serif;
+  margin-left: 1rem;
+}
+
+.nutri-para {
+  font-size: 1.5rem;
+  font-weight: 400;
+  font-family: "Outfit";
+  margin: 0.5rem;
+}
+
+.nutri-div {
+  font-size: 1.3rem;
+  font-weight: 600;
+  font-family: "Outfit";
+  margin-left: 0.5rem;
+}
+
+#calories {
+  margin-left: 20rem;
+  color: hsl(14, 45%, 36%);
+}
+
+#carbs {
+  margin-left: 22rem;
+  color: hsl(14, 45%, 36%);
+}
+
+#protein {
+  margin-left: 21rem;
+  color: hsl(14, 45%, 36%);
+}
+
+#fat {
+  margin-left: 23rem;
+  color: hsl(14, 45%, 36%);
+}
+
+hr {
+  margin: 1rem 0.6rem;
+}
